@@ -1,5 +1,4 @@
-# Impirical Study of Using Vulnerable Libraries in the Architecture of
-Chrome
+# Impirical Study of Using Vulnerable Libraries in the Architecture of Chrome
 
 ##We implemented a model that runs on the Chromium
 project to make sure the vulnerability libraries that are defined
